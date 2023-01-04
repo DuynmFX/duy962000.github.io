@@ -1,0 +1,37 @@
+@media only screen and (min-width: 786px) and (max-width: 991px) {
+    .nav3{
+        display: none;
+    }
+    nav.container{
+        column-gap: 30px;
+    }
+
+    #job-info .container{
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: none;
+    }
+    .kinhnghiem{
+        grid-column: 1;
+        grid-row: 1/ span 2;
+       
+    }
+    .skill{
+        grid-column: 1/2;
+        grid-row: 3/4;
+    }
+    .ngonngu{
+        grid-column: 1/2;
+        grid-row: 4/5;
+    }
+    .hocvan{
+        grid-column: 2/3;
+       
+    }
+    .project-content-text {
+        border: 1px solid #ced4da;
+        height: 530px;
+    }   
+    .project-year{
+        display: flex;
+    }  
+}
