@@ -44,7 +44,7 @@ Assignment 03
 │  ├─ funix-icon.png
 │  ├─ project_1.png
 │  ├─ project_2.png
-│  └─ project_3.png
+│  └─ project123.png
 └─ index.html
 
 ```
