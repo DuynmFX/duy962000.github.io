@@ -3,7 +3,9 @@
 Assignment 02 Stater
 ├─ css
 │  ├─ font.css
-│  └─ style.css
+│  └─ laptop.css
+│  └─ tablet.css
+│  └─ mobi.css
 ├─ fonts
 │  ├─ OpenSans-Italic-webfont.eot
 │  ├─ OpenSans-Italic-webfont.svg
@@ -35,8 +37,8 @@ Assignment 02 Stater
 │  └─ fontello.woff
 ├─ icon-list.html
 ├─ images
-│  ├─ Cert_PRF.png
-│  ├─ Cert_WEB.png
+│  ├─ cert_prf.png
+│  ├─ cert_web.png
 │  ├─ banner.jpg
 │  ├─ default-avatar.webp
 │  ├─ funix-icon.png
