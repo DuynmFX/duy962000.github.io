@@ -45,9 +45,7 @@
         display: grid;
         grid-template-columns: 1fr;
       }
-    .project-content-text{
-        height: 300px;
-      }
+   
       #footer a{
         display: none;
       }
